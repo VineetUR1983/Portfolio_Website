@@ -2,7 +2,7 @@
 
 # At a minimum use Ruby 2.5 or later
 
-FROM ruby:2.7-alpine3.15
+FROM ruby:2.7-alpine3.16
 
 # Add Jekyll Dependencies to Alpine
 
